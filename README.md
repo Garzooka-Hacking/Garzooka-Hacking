@@ -32,32 +32,5 @@ Soy **Carlos Junior Prieto Hermosa**, especialista en Ciberseguridad y Desarroll
 | **Seguridad & Redes** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white) |
 | **Herramientas & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
----
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garzooka-Hacking&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garzooka-Hacking&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
-</div>
 
----
-
-### 🚀 Proyectos Destacados
-| Proyecto | Descripción | Link |
-| :--- | :--- | :--- |
-| **Hacker Portfolio** | Un portafolio premium con estética Matrix y terminal interactiva. | [Ver Proyecto](https://garzooka-hacking.github.io/carlos-hacker-portfolio/) |
-| **Aviator Simulator** | Simulador y analizador de tendencias para el juego Aviator. | [Repositorio](https://github.com/Garzooka-Hacking/aviator-simulator) |
-| **Premier Betting Bot** | Automatización de análisis estadístico para apuestas deportivas. | [Repositorio](https://github.com/Garzooka-Hacking/premier-betting) |
-
----
-
-### 📫 Contacto & Conexión
-¿Tienes una idea innovadora o necesitas fortalecer la seguridad de tus sistemas? ¡Hablemos!
-- 📧 [carlos@example.com](mailto:carlos@example.com) (Simulado)
-- 💬 [LinkedIn](https://www.linkedin.com/in/carlos-junior-prieto-hermosa/)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXNyZWtrZ2Z6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQC1Q7UsC88/giphy.gif" width="600" alt="Cyberpunk GIF">
-  <br/>
-  <sub><b>EAT . SLEEP . CODE . SECURE . REPEAT</b></sub>
-</div>           de este codigo hasme un perfil en html para github no me crees solo dame el codigo
