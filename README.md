@@ -14,10 +14,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=100&lines=root%40kali%3A~%23+whoami;Carlos+Junior+Prieto+Hermosa;Cybersecurity+Specialist+%7C+Full-Stack+Dev;Breaking+Systems%2C+Building+Solutions;Think+Like+a+Hacker%2C+Code+Like+a+Pro)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/Garzooka)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/carlos-junior-prieto-hermosa/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/Garzooka/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41&labelColor=000000)](https://carlos-junior-prieto-hermosa.github.io/carlos-hacker-portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Carlos-Junior-Prieto-Hermosa&color=00ff41&style=for-the-badge&label=INTRUSIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=Garzooka&color=00ff41&style=for-the-badge&label=INTRUSIONS)
 
 </div>
 
